@@ -1,0 +1,17 @@
+{
+  "name": "practica1",
+  "version": "0.0.1",
+  "description": "practica volt y temp",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "reactjs"
+  ],
+  "author": "ubb",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^33.3.1"
+  }
+}

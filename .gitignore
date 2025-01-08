@@ -1,0 +1,24 @@
+# Ignorar dependencias de npm
+node_modules/
+
+# Ignorar archivos de logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ignorar archivos de entorno
+.env
+.env.local
+.env.*.local
+
+# Ignorar directorios temporales de sistemas operativos
+.DS_Store
+Thumbs.db
+
+# Ignorar la caché de paquetes
+.pnpm-debug.log*
+package-lock.json
+
+# Ignorar archivos de compilación (si usas herramientas como Webpack o Babel)
+dist/
+build/
