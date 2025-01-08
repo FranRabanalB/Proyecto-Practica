@@ -22,3 +22,5 @@ package-lock.json
 # Ignorar archivos de compilación (si usas herramientas como Webpack o Babel)
 dist/
 build/
+
+out/
